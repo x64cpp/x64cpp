@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  If you have any questions or just want to chat, feel free to reach me on Discord: `421.` (Don't forget the dot!!!).
+  If you have any questions or just want to chat, feel free to reach me on Discord: 421. (Don't forget the dot!!!).
 </p>
 
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
