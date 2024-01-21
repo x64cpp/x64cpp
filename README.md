@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋 Hey there, I'm Samy!</h2>
+  <h2>Hey there, I'm Samy!</h2>
 
   <p>
     Welcome to my GitHub profile! I'm Samy, a passionate French law student who loves to code in my free time. Currently, I'm exploring the world of Valorant "chairs" for educational purposes and working on various Discord bots and diverse projects.
@@ -13,13 +13,13 @@
     If you have any questions or just want to chat, feel free to reach me on Discord: <code>421.</code>.
   </p>
 
-  <h3>🎮 Windows Optimization Expertise 🖥️</h3>
+  <h3>Windows Optimization Expertise</h3>
 
   <p>
     With a deep understanding of Windows functionality, I specialize in optimizing the operating system for real-time tasks and gaming. Over four years of active participation in the tweaking community, I've honed my skills to reduce input delay and enhance overall system performance.
   </p>
 
-  <h3>🚀 Featured Project</h3>
+  <h3>Featured Project</h3>
 
   <p>
     Check out my latest project:
