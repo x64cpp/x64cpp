@@ -27,7 +27,7 @@
 
   <!-- Replace the link and description with your own project details -->
   <p>
-    <a href="https://github.com/x64cpp/DJS-MONGO-PACKAGE">DJS MONGO PACKAGE</a>: A Discord.js MongoDB package for efficient data storage and retrieval.
+    <a href="https://github.com/x64cpp/DJS-MONGO-PACKAGE">DJS MONGO PACKAGE</a>: A Discord.js MongoDB package.
   </p>
 
   <h3>⚒️ Languages | Frameworks | Tools ⚒️</h3>
