@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    If you have any questions or just want to chat, feel free to reach me on Discord: <code>421.</code> (Don't forget the dot!!!).
+    If you have any questions or just want to chat, feel free to reach me on Discord: <code>421.</code>.
   </p>
 
   <h3>🎮 Windows Optimization Expertise 🖥️</h3>
