@@ -13,13 +13,6 @@
     If you have any questions or just want to chat, feel free to reach me on Discord: <code>421.</code> (Don't forget the dot!!!).
   </p>
 
-  <h3>⚒️ Languages | Frameworks | Tools ⚒️</h3>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord" alt="Visual Studio Code, GitHub, Git, Discord" />
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,typescript,mongodb,c,mysql,powershell,sqlite,cpp" alt=".NET, Node.js, JavaScript, TypeScript, MongoDB, C, MySQL, PowerShell, SQLite, C++" />
-  </p>
-
   <h3>🎮 Windows Optimization Expertise 🖥️</h3>
 
   <p>
@@ -34,6 +27,13 @@
 
   <!-- Replace the link and description with your own project details -->
   <p>
-    <a href="https://github.com/x64cpp/DJS-MONGO-PACKAGE">DJS MONGO PACKAGE</a>: A Discord.js MongoDB package.
+    <a href="https://github.com/x64cpp/DJS-MONGO-PACKAGE">DJS MONGO PACKAGE</a>: A Discord.js MongoDB package for efficient data storage and retrieval.
+  </p>
+
+  <h3>⚒️ Languages | Frameworks | Tools ⚒️</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord" alt="Visual Studio Code, GitHub, Git, Discord" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,typescript,mongodb,c,mysql,powershell,sqlite,cpp" alt=".NET, Node.js, JavaScript, TypeScript, MongoDB, C, MySQL, PowerShell, SQLite, C++" />
   </p>
 </div>
