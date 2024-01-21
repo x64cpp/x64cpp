@@ -20,6 +20,12 @@
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,typescript,mongodb,c,mysql,powershell,sqlite,cpp" alt=".NET, Node.js, JavaScript, TypeScript, MongoDB, C, MySQL, PowerShell, SQLite, C++" />
   </p>
 
+  <h3>🎮 Windows Optimization Expertise 🖥️</h3>
+
+  <p>
+    With a deep understanding of Windows functionality, I specialize in optimizing the operating system for real-time tasks and gaming. Over four years of active participation in the tweaking community, I've honed my skills to reduce input delay and enhance overall system performance.
+  </p>
+
   <h3>🚀 Featured Project</h3>
 
   <p>
@@ -28,6 +34,6 @@
 
   <!-- Replace the link and description with your own project details -->
   <p>
-    <a href="link-to-your-project">Project Name</a>: Brief description of your project.
+    <a href="[link-to-your-project](https://github.com/x64cpp/DJS-MONGO-PACKAGE)">Project Name</a>: DJS MONGO PACKAGE.
   </p>
 </div>
