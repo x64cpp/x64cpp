@@ -34,6 +34,6 @@
 
   <!-- Replace the link and description with your own project details -->
   <p>
-    <a href="[link-to-your-project](https://github.com/x64cpp/DJS-MONGO-PACKAGE)".
+    <a href="https://github.com/x64cpp/DJS-MONGO-PACKAGE">DJS MONGO PACKAGE</a>: A Discord.js MongoDB package for efficient data storage and retrieval.
   </p>
 </div>
